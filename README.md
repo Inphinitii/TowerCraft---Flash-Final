@@ -18,6 +18,6 @@ My involvement in TowerCraft was primarily to provide the graphics, tile system,
 I also assisted in the path finding, projectile, and enemy logic. 
 
 ##Restrictions
-Currently only one tower type is implemented, the fire arrow tower.
+Currently only two tower types are implemented: the fire arrow tower and cannon tower.
 This was all that was necessary for this project to get a finished status.
 Uses XML to determine what items can be combined into what, so it's relatively easy to expand. 
