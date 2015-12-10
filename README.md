@@ -14,8 +14,12 @@ Ie; Flame + Arrow = Flaming Arrow Tower.
 The user must craft each tower that they plan on placing either ahead of time or right when they need it.
 
 ## Involvement
-My involvement in TowerCraft was primarily to provide the graphics, tile system, and user interface.
-I also assisted in the path finding, projectile, and enemy logic. 
+- All tile and tower art, as well as the user interface artwork
+- Tile map
+- User Interface - Main Menu / Inventory(Bag) / Crafting Menu
+- Path finding (Node based)
+- Projectile logic
+- Enemy logic
 
 ##Restrictions
 Currently only two tower types are implemented: the fire arrow tower and cannon tower.
